@@ -1,7 +1,0 @@
-#Movie Reviews
-
-This is my first attempt at building a machine learning model using scikit-learn in Python.
-Using movie review data from IMDB, I try to predict whether a review is positive or negative.
-Then I find the accuracies of different models and optimize the best one.
-
-I follow along with a guide from Towards Data Science which you can find here: https://towardsdatascience.com/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a
